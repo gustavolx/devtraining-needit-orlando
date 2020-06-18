@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_58872_needit_delete_me_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 18:53:06</sys_created_on>
+        <sys_id>1c407c9cdb6d5010f897f36f299619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_delete_me_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>ua_table_licensing_config_1c407c9cdb6d5010f897f36f299619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 18:53:06</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9355b5a7db6e9f0052e3f70fbf96197f</instance_id>
+        <instance_name>dev61130</instance_name>
+        <name>ua_table_licensing_config_1c407c9cdb6d5010f897f36f299619d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_58872_needit_delete_me_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 18:53:06</sys_created_on><sys_id>1c407c9cdb6d5010f897f36f299619d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_delete_me_table</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>ua_table_licensing_config_1c407c9cdb6d5010f897f36f299619d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 18:53:06</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-325995372</payload_hash>
+        <record_name>x_58872_needit_delete_me_table</record_name>
+        <reverted_from/>
+        <source>5de2a22bdb551010f897f36f29961921</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 18:53:06</sys_created_on>
+        <sys_id>9c407c9cdb6d5010f897f36f299619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c3a0ac3e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 18:53:06</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>d4407c9c016d50105a3b17ea2ee8cad3</update_guid>
+        <update_guid_history>d4407c9c016d50105a3b17ea2ee8cad3:-325995372</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 18:53:47</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>147497347fcc42d9a96fb188fe5526a9</sys_id>
+        <sys_metadata>1c407c9cdb6d5010f897f36f299619d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_delete_me_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_1c407c9cdb6d5010f897f36f299619d1</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_1c407c9cdb6d5010f897f36f299619d1">9c407c9cdb6d5010f897f36f299619d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 18:53:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

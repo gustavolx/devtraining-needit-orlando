@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_58872_needit_delete_me_table" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_58872_needit_delete_me_table" element="NULL" name="x_58872_needit_delete_me_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3150fc9cdb6d5010f897f36f29961981</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 18:53:28</sys_created_on>
+            <sys_id>3950fc9cdb6d5010f897f36f29961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 18:53:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_delete_me_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 18:53:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3150fc9cdb6d5010f897f36f29961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_delete_me_table</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_x_58872_needit_delete_me_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 18:53:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9355b5a7db6e9f0052e3f70fbf96197f</instance_id>
+        <instance_name>dev61130</instance_name>
+        <name>sys_ui_list_x_58872_needit_delete_me_table_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_delete_me_table" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_58872_needit_delete_me_table" element="NULL" name="x_58872_needit_delete_me_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3150fc9cdb6d5010f897f36f29961981</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 18:53:28</sys_created_on><sys_id>3950fc9cdb6d5010f897f36f29961982</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 18:53:28</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_58872_needit_delete_me_table</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 18:53:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3150fc9cdb6d5010f897f36f29961981</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_delete_me_table</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_list_x_58872_needit_delete_me_table_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 18:53:28</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1036065109</payload_hash>
+        <record_name>Delete me table</record_name>
+        <reverted_from/>
+        <source>5de2a22bdb551010f897f36f29961921</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 18:53:28</sys_created_on>
+        <sys_id>3550fc9cdb6d5010f897f36f29961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c3a103c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 18:53:28</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>f150fc9cb36d50100475464b43b7e584</update_guid>
+        <update_guid_history>f150fc9cb36d50100475464b43b7e584:1036065109</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 18:53:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>1b1ccac614974a578a6fa446082b69b9</sys_id>
+        <sys_metadata>3150fc9cdb6d5010f897f36f29961981</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_delete_me_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">3f103c9cdb6d5010f897f36f2996190e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_58872_needit_delete_me_table_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_58872_needit_delete_me_table_null">3550fc9cdb6d5010f897f36f29961984</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 18:53:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
